@@ -1,5 +1,0 @@
-package com.db.ratingsdataservice.model;
-
-public class UserRating {
-
-}
