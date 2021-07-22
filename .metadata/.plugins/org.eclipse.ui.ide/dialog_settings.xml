@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="F:\Spring_boot_microservice\discovery-server"/>
+		<item value="F:\Spring_boot_microservice\ratings-data-service"/>
+		<item value="F:\Spring_boot_microservice\movie-info-service"/>
+		<item value="F:\Spring_boot_microservice\movie-catalog-service"/>
+	</list>
+</section>

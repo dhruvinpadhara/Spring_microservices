@@ -1,0 +1,5 @@
+package com.db.ratingsdataservice.model;
+
+public class Rating {
+
+}
